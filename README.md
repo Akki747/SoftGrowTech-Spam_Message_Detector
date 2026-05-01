@@ -39,4 +39,4 @@ pip install pandas scikit-learn
 
 
 
-
+<img width="693" height="472" alt="Screenshot 2026-05-01 210316 - Copy" src="https://github.com/user-attachments/assets/ccd2b18c-7bc5-48a9-8abb-64b021cd213a" />
