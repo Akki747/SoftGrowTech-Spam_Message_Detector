@@ -38,4 +38,7 @@ The system follows a simple process:
 ```bash
 pip install pandas scikit-learn
 
-<img width="693" height="472" alt="Screenshot 2026-05-01 210316" src="https://github.com/user-attachments/assets/32cdfa90-c42a-4053-a5f9-6ca91b8126d6" />
+##OUTPUT##
+
+<img width="693" height="472" alt="Screenshot 2026-05-01 210316 - Copy" src="https://github.com/user-attachments/assets/ccd2b18c-7bc5-48a9-8abb-64b021cd213a" />
+
